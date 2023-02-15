@@ -17,7 +17,7 @@ import com.app.`fun`.presentation.navigation.Screens
 val items = listOf(
     Screens.HomeScreen,
     Screens.CatalogsScreen,
-    Screens.GalleryScreen,
+//    Screens.GalleryScreen,
     Screens.FavouritesScreen,
     Screens.UserScreen,
 )
