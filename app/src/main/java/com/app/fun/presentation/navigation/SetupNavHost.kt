@@ -61,7 +61,7 @@ fun SetupNavHost(navController: NavHostController) {
                 FavouritesScreen(navController = navController)
             }
             composable(route = Screens.UserScreen.rout) {
-                UserScreen(navController = navController)
+                UserScreen()
             }
         }
     }

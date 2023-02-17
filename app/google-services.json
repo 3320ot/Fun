@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "587176986071",
+    "firebase_url": "https://fun-app-3ca13-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "fun-app-3ca13",
     "storage_bucket": "fun-app-3ca13.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "587176986071-85jf369cskoaupnj2abtparkg6u588fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fun",
+            "certificate_hash": "6fea0b2e73d6e0d68085c1198a0c810981a384f9"
+          }
+        },
         {
           "client_id": "587176986071-d25oea550ctq66csls4k5lhv801uj36p.apps.googleusercontent.com",
           "client_type": 3
